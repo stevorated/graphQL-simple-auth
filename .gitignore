@@ -1,0 +1,11 @@
+node_modules
+
+*.log*
+
+.env
+config/
+config/dev.env
+
+README.md
+
+yarn.lock
